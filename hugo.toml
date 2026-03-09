@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://aattentionn.github.io/cv-site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "cv-theme"
