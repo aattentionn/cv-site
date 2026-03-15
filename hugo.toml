@@ -1,6 +1,6 @@
 baseURL = 'https://aattentionn.github.io/cv-site/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Анна Никешина'
 theme = "cv-theme"
 
 [menu]

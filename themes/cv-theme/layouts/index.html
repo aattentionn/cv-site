@@ -1,3 +1,7 @@
 {{ define "main" }}
-    This is a homepage
+<div class="intro">
+  <h1>{{ .Site.Title }}</h1>
+  <p class="subtitle">Технический писатель</p>
+  {{ .Content }}
+</div>
 {{ end }}
