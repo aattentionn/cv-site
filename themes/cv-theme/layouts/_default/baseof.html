@@ -8,8 +8,8 @@
 </head>
 <body>
     <nav>
-      <a href="/">CV</a>
-      <a href="/pages/">Проекты</a>
+      <a href="{{ "/" | relURL }}">CV</a>
+      <a href="{{ "/pages/" | relURL }}">Проекты</a>
     </nav>
     {{ block "main" . }}
     {{ end }}
