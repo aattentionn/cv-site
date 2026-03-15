@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on My New Hugo Site</title>
+    <title>Pages on Анна Никешина</title>
     <link>http://localhost:1313/cv-site/pages/</link>
-    <description>Recent content in Pages on My New Hugo Site</description>
+    <description>Recent content in Pages on Анна Никешина</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/cv-site/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проект 1</title>
+      <title>Как начать танцевать в стиле house: пошаговая инструкция</title>
       <link>http://localhost:1313/cv-site/pages/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv-site/pages/first/</guid>
-      <description>&lt;p&gt;Здесь рассказываю о своем проекте&lt;/p&gt;</description>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;Познакомьтесь со стилем&#xA;Узнайте, что такое house dance, когда он появился и какие базовые движения существуют. Начать можно с этих Youtube-каналов:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jardy Santiago;&lt;/li&gt;&#xA;&lt;li&gt;Summer Dance Forever.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Начните практиковаться&#xA;Найдите уроки по house dance в вашем городе и запишитесь на пробное занятие. Если офлайн-уроков нет, можно начать с онлайн:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kamon;&lt;/li&gt;&#xA;&lt;li&gt;Banri Jackin.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Удобная одежда и обувь&#xA;Выберите одежду, не сковывающую движения и кроссовки с нескользящей подошвой.&lt;/li&gt;&#xA;&lt;li&gt;Практикуйте импровизацию&#xA;Фристайл — важная часть house dance. Выберите 2-3 движения и пробуйте их комбинировать под разные треки.&lt;/li&gt;&#xA;&lt;li&gt;Записывайте себя на видео&#xA;Это поможет отслеживать прогресс и замечать ошибки.&lt;/li&gt;&#xA;&lt;li&gt;Тренируйтесь регулярно&#xA;Важно тренироваться, чтобы добиться результата. Небольшие ежедневные тренировки по 10-15 мин со временем принесут уверенности в движениях, и поспособствуют их запоминанию.&lt;/li&gt;&#xA;&lt;li&gt;Вдохновляйтесь другими&#xA;Смотрите батлы, посещайте танцевальные мероприятия в вашем городе, следите за house-танцорами в социальных сетях.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
-      <title>Проект 2</title>
+      <title>Переводы</title>
       <link>http://localhost:1313/cv-site/pages/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv-site/pages/second/</guid>
-      <description>&lt;p&gt;Здесь рассказываю о своем проекте&lt;/p&gt;</description>
+      <description>&lt;p&gt;On Ozon Bank&amp;rsquo;s page in the Ozon Mobile App, there is a promo information about key benefits of holding an Ozon Card. The top section includes an image of Ozon Bank card and financial icons. There are highlited benefits of the card below:&lt;/p&gt;&#xA;&lt;p&gt;Free service and cashback system – clients save up to 25% outside Ozon and up to 30% on marketplace;&#xA;Installment with Ozon Bank for clients purchases;&#xA;Saving account - 22% per annum for the first 2 months if the client opening a saving account for the first time. Then 15% annually.&#xA;To issue the card, the client can press button at the bottom of the window.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

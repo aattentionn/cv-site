@@ -4,11 +4,11 @@
   <url>
     <loc>http://localhost:1313/cv-site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv-site/</loc>
-  </url><url>
     <loc>http://localhost:1313/cv-site/pages/</loc>
   </url><url>
     <loc>http://localhost:1313/cv-site/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cv-site/</loc>
   </url><url>
     <loc>http://localhost:1313/cv-site/pages/first/</loc>
   </url><url>
