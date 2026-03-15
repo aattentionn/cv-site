@@ -8,8 +8,8 @@
 </head>
 <body>
     <nav>
-      <a href="{{ "/" | absURL }}">CV</a>
-      <a href="{{ "/pages/" | absURL }}">Проекты</a>
+      <a href="{{ .Site.BaseURL }}">CV</a>
+      <a href="{{ "pages/" | absURL }}">Проекты</a>
     </nav>
     {{ block "main" . }}
     {{ end }}
