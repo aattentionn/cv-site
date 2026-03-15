@@ -2,3 +2,17 @@ baseURL = 'https://aattentionn.github.io/cv-site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "cv-theme"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "first"
+    name = "First"
+    url = "/first/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "second"
+    name = "Second"
+    url = "/second/"
+    weight = 20
