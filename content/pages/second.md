@@ -17,4 +17,4 @@ To issue the card, the client can press button at the bottom of the window.
 To exit this page, the user need to press the arrow button in the top left corner.
 
 
-![Ozon Bank's Page](/images/page.png)
+{{< img src="images/page.png" alt="Ozon Bank's Page" >}}
