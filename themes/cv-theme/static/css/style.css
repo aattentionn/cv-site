@@ -36,6 +36,11 @@ nav a:hover {
   color: #000;
 }
 
+p {
+  text-decoration: none;
+  color: inherit;
+}
+
 /* HOMEPAGE */
 
 .intro h1 {
