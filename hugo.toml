@@ -2,6 +2,7 @@ baseURL = 'https://aattentionn.github.io/cv-site/'
 languageCode = 'en-us'
 title = 'Анна Никешина'
 theme = "cv-theme"
+canonifyURLs = true
 
 [menu]
 

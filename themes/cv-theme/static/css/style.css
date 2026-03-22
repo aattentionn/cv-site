@@ -36,9 +36,17 @@ nav a:hover {
   color: #000;
 }
 
-p a {
+p {
+  margin-bottom: 1rem;
+}
+
+p a{
   text-decoration: none;
   color: inherit;
+}
+
+p a:hover {
+  text-decoration: underline;
 }
 
 /* HOMEPAGE */
@@ -91,4 +99,8 @@ h1 {
   font-size: 1.6rem;
   font-weight: normal;
   margin-bottom: 1.5rem;
+}
+
+p img {
+  width: 450px;
 }
