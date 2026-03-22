@@ -8,11 +8,17 @@ theme = "cv-theme"
   [[menu.main]]
     identifier = "first"
     name = "First"
-    url = "/first/"
+    url = "/pages/first/"
     weight = 10
 
   [[menu.main]]
     identifier = "second"
     name = "Second"
-    url = "/second/"
+    url = "/pages/second/"
     weight = 20
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Контакты"
+    url = "/pages/contact/"
+    weight = 30
