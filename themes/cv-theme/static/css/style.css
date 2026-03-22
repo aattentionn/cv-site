@@ -21,7 +21,7 @@ nav {
   display: flex;
   gap: 1.5rem;
   margin-bottom: 1rem;
-  border-bottom: 1px solid #3A6F98;
+  border-bottom: 1px solid #f0f0f0;
   padding-bottom: 1rem;
 }
 
@@ -63,7 +63,7 @@ ul {
 .post-snippet {
   margin-bottom: 1.5rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid #3A6F98;
+  border-bottom: 1px solid #f0f0f0;
 }
 
 .post-snippet h3 {
