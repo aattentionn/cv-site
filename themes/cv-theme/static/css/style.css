@@ -71,6 +71,8 @@ p a:hover {
 
 ul {
   margin-bottom: 1.5rem;
+  padding-left: 0;
+  list-style-position: inside;
 }
 
 .post-snippet {
