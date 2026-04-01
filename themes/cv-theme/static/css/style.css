@@ -70,7 +70,7 @@ p a:hover {
 /* PAGES LIST */
 
 ul {
-  list-style: none;
+  margin-bottom: 1.5rem;
 }
 
 .post-snippet {
@@ -101,6 +101,28 @@ h1 {
   margin-bottom: 1.5rem;
 }
 
+h4 {
+  margin-bottom: 1rem;
+}
+
+h4 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h4 a:hover {
+  text-decoration: underline;
+}
+
 p img {
   width: 450px;
+}
+
+ul a {
+  text-decoration: none;
+  color: #4e2bcd;
+}
+
+ul a:hover {
+  color: #000;
 }
