@@ -22,3 +22,8 @@ theme = "cv-theme"
     name = "Контакты"
     url = "/contact/"
     weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
