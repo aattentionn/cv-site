@@ -40,7 +40,7 @@ p {
   margin-bottom: 1rem;
 }
 
-.contacts_link{
+.contacts_link {
   text-decoration: none;
   color: inherit;
 }
@@ -104,6 +104,24 @@ ol {
 
 /* SINGLE PAGE */
 
+.purple_link {
+  text-decoration: none;
+  color: #4e2bcd;
+}
+
+.purple_link:hover {
+  color: #000;
+}
+
+a[href^="mailto:"] {
+  color: #222;
+  text-decoration: none;
+}
+
+a[href^="mailto:"]:hover {
+  text-decoration: underline;
+}
+
 h1 {
   font-size: 1.6rem;
   font-weight: normal;
@@ -112,15 +130,6 @@ h1 {
 
 h3,h4 {
   margin-bottom: 1rem;
-}
-
-h4 a {
-  text-decoration: none;
-  color: inherit;
-}
-
-h4 a:hover {
-  text-decoration: underline;
 }
 
 .spotify_h3 {
@@ -140,11 +149,3 @@ img {
   width: 450px;
 }
 
-.purple_link {
-  text-decoration: none;
-  color: #4e2bcd;
-}
-
-.purple_link:hover {
-  color: #000;
-}
