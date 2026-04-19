@@ -9,16 +9,16 @@ draft: false
 
 Начать можно с базового знакомства: что это за стиль, когда он появился, какие движения в нём есть. Если вам проще воспринимать информацию визуально, найдите видео, где танцуют house. На этом этапе мне помогли полезные материалы:
 
- * [House Dance: Origins, Culture, and Technique Introduction](https://inmovementdance.com/f/house-dance-origins-culture-and-technique-introduction) — статья об истории стиля и людях, повлиявших на культуру house.
- * [Banri Jackin](https://www.youtube.com/@housedance-tutorial) — YouTube-канал с разбором базовых движений для новичков.
- * [MaMSoN & Jacksterz / House Dance](https://www.youtube.com/watch?v=rpYcP-2jlac) — видео для вдохновения и понимания ритма танца и музыки.
+ * <a class="purple_link" href="https://inmovementdance.com/f/house-dance-origins-culture-and-technique-introduction">House Dance: Origins, Culture, and Technique Introduction</a> — статья об истории стиля и людях, повлиявших на культуру house.
+ * <a class="purple_link" href="https://www.youtube.com/@housedance-tutorial">Banri Jackin</a> — YouTube-канал с разбором базовых движений для новичков.
+ * <a class="purple_link" href="https://www.youtube.com/watch?v=rpYcP-2jlac">MaMSoN & Jacksterz / House Dance</a> — видео для вдохновения и понимания ритма танца и музыки.
 
 
 **2. Выберите удобный формат обучения**
 
 На этом шаге определите, в каком формате вам комфортнее начать танцевать. Вы можете найти уроки в своём городе и записаться на пробное занятие. Источники поиска могут быть разными — от запроса в Google до профилей танцоров в социальных сетях. Также можно начать с онлайн-формата, если офлайн-занятий нет:
- * [Kamon](https://kamon.dance/) — платформа с уроками по популярным стилям, включая house. Подходит для начинающих.
- * [Jardy Santiago](https://www.youtube.com/@JardySantiago) — YouTube-канал с базовыми движениями и их вариациями.
+ * <a class="purple_link" href="https://kamon.dance/">Kamon</a> — платформа с уроками по популярным стилям, включая house. Подходит для начинающих.
+ * <a class="purple_link" href="https://www.youtube.com/@JardySantiago">Jardy Santiago</a> — YouTube-канал с базовыми движениями и их вариациями.
 
 
 **3. Подберите удобную одежду и обувь**
@@ -32,7 +32,7 @@ draft: false
 
 **4. Практикуйте импровизацию**
 
-Фристайл — важная часть house. Выберите 2–3 движения и пробуйте их комбинировать под разные треки. Для тренировок я создала плейлист на [Apple Music](https://music.apple.com/ru/playlist/house-dance/pl.u-vxy66e4ClyN55R?l=en-GB).
+Фристайл — важная часть house. Выберите 2–3 движения и пробуйте их комбинировать под разные треки. Для тренировок я создала плейлист на <a class="purple_link" href="https://music.apple.com/ru/playlist/house-dance/pl.u-vxy66e4ClyN55R?l=en-GB">Apple Music</a>.
 
 
 **5. Записывайте себя на видео**
@@ -47,5 +47,5 @@ draft: false
 
 **7. Вдохновляйтесь другими**
 Смотрите батлы, посещайте танцевальные мероприятия в своём городе, следите за house-танцорами в социальных сетях. Вот источники, которые помогают мне развивать насмотренность:
- * [Summer Dance Forever](https://www.youtube.com/@SummerDanceForever) — YouTube-канал фестиваля из Амстердама с библиотекой видео танцевальных батлов.
- * [Cotu Calcium](https://www.youtube.com/@cotu_calcium_ch/shorts) — YouTube-канал, автор которого делится короткими видео с примерами футворка.
+ * <a class="purple_link" href="https://www.youtube.com/@SummerDanceForever">Summer Dance Forever</a> — YouTube-канал фестиваля из Амстердама с библиотекой видео танцевальных батлов.
+ * <a class="purple_link" href="https://www.youtube.com/@cotu_calcium_ch/shorts">Cotu Calcium</a> — YouTube-канал, автор которого делится короткими видео с примерами футворка.

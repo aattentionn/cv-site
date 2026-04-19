@@ -20,7 +20,7 @@ body {
 nav {
   display: flex;
   gap: 1.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   border-bottom: 1px solid #f0f0f0;
   padding-bottom: 1rem;
 }
@@ -40,12 +40,12 @@ p {
   margin-bottom: 1rem;
 }
 
-p a{
+.contacts_link{
   text-decoration: none;
   color: inherit;
 }
 
-p a:hover {
+.contacts_link:hover {
   text-decoration: underline;
 }
 
@@ -75,9 +75,16 @@ ul {
   list-style-position: inside;
 }
 
+ol {
+  list-style-position: inside;
+}
+
+.spotify_ol {
+  margin-bottom: 1.5rem;
+}
+
 .post-snippet {
   margin-bottom: 1.5rem;
-  padding-bottom: 1.5rem;
   border-bottom: 1px solid #f0f0f0;
 }
 
@@ -103,7 +110,7 @@ h1 {
   margin-bottom: 1.5rem;
 }
 
-h4 {
+h3,h4 {
   margin-bottom: 1rem;
 }
 
@@ -116,15 +123,28 @@ h4 a:hover {
   text-decoration: underline;
 }
 
-p img {
+.spotify_h3 {
+  margin-top: 1rem;
+}
+
+img {
+  display: block;
+  width: 300px;
+  height: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0;
+}
+
+.spotify_web2 {
   width: 450px;
 }
 
-ul a {
+.purple_link {
   text-decoration: none;
   color: #4e2bcd;
 }
 
-ul a:hover {
+.purple_link:hover {
   color: #000;
 }

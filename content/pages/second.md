@@ -3,7 +3,7 @@ title: "Переводы"
 draft: false
 ---
 
-#### Описан один из [экранов](https://drive.google.com/file/d/1dSOh5VWsyqdrF5fqY_U2AIbr1QNK335l/view) приложения Ozon Банк:
+#### Описан один из экранов приложения Ozon Банк:
 
 On Ozon Bank's page in the Ozon Mobile App, there is a promo information about key benefits of holding an Ozon Card. The top section includes an image of Ozon Bank card and financial icons. There are highlited benefits of the card below:
 
@@ -17,3 +17,5 @@ To issue the card, the client can press button at the bottom of the window.
 
 
 To exit this page, the user need to press the arrow button in the top left corner.
+
+{{< img src="/images/ozon_bank.png" alt="Ozon Bank's app screen" >}}
