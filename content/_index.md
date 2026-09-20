@@ -13,4 +13,4 @@ title: "UX-редактор"
 Ищу сильную команду, в которой смогу применить знания и необычный бекграунд. Я хочу, чтобы мои тексты решали задачи пользователей и приносили пользу продукту.
 
 
-***<a class="contacts_link" href="https://t.me/aaattentio">Telegram</a>*** | ***<a class="contacts_link" href="mailto:spareme.fys@gmail.com">Email</a>*** | ***<a class="contacts_link" href="https://hh.ru/resume/f2ebc414ff0eaa3ccf0039ed1f594c65367a53">Резюме на hh</a>*** | ***<a class="contacts_link" href="https://github.com/aattentionn/">Github</a>*** | ***<a class="contacts_link" href="https://www.linkedin.com/in/anna-n-430a441b4/">Linkedin</a>***
+***<a class="contacts_link" href="https://t.me/aaattentio">Telegram</a>*** | ***<a class="contacts_link" href="mailto:spareme.fys@gmail.com">Email</a>*** | ***<a class="contacts_link" href="https://github.com/aattentionn/">Github</a>*** | ***<a class="contacts_link" href="https://www.linkedin.com/in/anna-n-430a441b4/">Linkedin</a>***
